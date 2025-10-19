@@ -82,15 +82,16 @@ Java: `██████░░░░` 60%
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+
 ## 📊 Skill Progress
 | Skill | Progress |
 |-------|-----------|
-| 🧠 Problem Solving | ![90%](https://progress-bar.dev/90/?title=90%) |
-| ⚛️ React / Next.js | ![85%](https://progress-bar.dev/85/?title=85%) |
-| 💻 JavaScript / TypeScript | ![80%](https://progress-bar.dev/80/?title=80%) |
-| 🐍 Python & Jupyter | ![75%](https://progress-bar.dev/75/?title=75%) |
-| 🤖 Machine Learning | ![70%](https://progress-bar.dev/70/?title=70%) |
-| 🏆 Competitive Programming | ![65%](https://progress-bar.dev/65/?title=65%) |
+| 🧠 Problem Solving | ![90%](https://progress-bar.dev/90/?title=90%&color=4CAF50) |
+| ⚛️ React / Next.js | ![85%](https://progress-bar.dev/85/?title=85%&color=61DAFB) |
+| 💻 JavaScript / TypeScript | ![80%](https://progress-bar.dev/80/?title=80%&color=F7DF1E) |
+| 🐍 Python & Jupyter | ![75%](https://progress-bar.dev/75/?title=75%&color=3776AB) |
+| 🤖 Machine Learning | ![70%](https://progress-bar.dev/70/?title=70%&color=FF6F61) |
+| 🏆 Competitive Programming | ![65%](https://progress-bar.dev/65/?title=65%&color=FFA116) |
 
 ## 📫 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/yasir.raiyan.54/)
