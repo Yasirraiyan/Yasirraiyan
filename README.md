@@ -123,14 +123,8 @@ Java: `██████░░░░` 60%
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ## Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F0DB4F?style=flat-square&logo=TensorFlow&logoColor=white)
-#Language:
------------
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-#FrameWork:
-------------
-
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
+#Language:![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+#FrameWork:![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ## Concepts
 ![OOP](https://img.shields.io/badge/OOP-000000?style=flat-square&logo=object-oriented-programming&logoColor=white)
 ![ML Model](https://img.shields.io/badge/ML_Model-FF6F61?style=flat-square)
