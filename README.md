@@ -50,7 +50,8 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
-
+![Google Colab](https://img.shields.io/badge/-Colab-black?style=flat-square&logo=googlecolab)
+![Kaggle](https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle)
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
@@ -59,8 +60,8 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Google Colab](https://img.shields.io/badge/-Colab-black?style=flat-square&logo=googlecolab)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle)
-[![Colab](https://img.shields.io/badge/-Google_Colab-black?style=flat-square&logo=googlecolab)](https://colab.research.google.com/)
 ![Phone](https://img.shields.io/badge/-Phone-black?style=flat-square&logo=telephone)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ---
 
@@ -78,7 +79,7 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
 [![Phone](https://img.shields.io/badge/-Phone-black?style=flat-square&logo=telephone&logoColor=white)](tel:01407841543)  
 [![Kaggle](https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle)](https://www.kaggle.com/muhammadyasirraiyan)  
 [![Colab](https://img.shields.io/badge/-Google_Colab-black?style=flat-square&logo=googlecolab)](https://colab.research.google.com/)
-
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)](https://account.mongodb.com/account/profile/info)
 ---
 
 ⭐ *Always learning, always building, always improving.*
