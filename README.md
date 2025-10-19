@@ -91,25 +91,42 @@ Java: `██████░░░░` 60%
 - Solved **460++ LeetCode problems** (Easy & Medium)
 - Developed **30+ real-world projects** in Web Development, ML, AI
 - Experienced in full-stack development with modern frameworks
-- -90+ Real life project based on:HTML 
-CSS
-JavaScript
-React
-Next.js
-Tailwind CSS
-TypeScript
+- -90+ Real life project based on:
 
-**Backend**  
-Node.js 
-Python 
-C++
-C#
-Java
-Mechine Learning
-Frontend
-Object Orianted Programming(OOP)
+## Frontend
+#Frame Works
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+#Frame Works
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+## Backend
+#Frame Works
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+#Language:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+## Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F0DB4F?style=flat-square&logo=TensorFlow&logoColor=white)
 
+## Concepts
+![OOP](https://img.shields.io/badge/OOP-000000?style=flat-square&logo=object-oriented-programming&logoColor=white)
+![ML Model](https://img.shields.io/badge/ML_Model-FF6F61?style=flat-square)
+![React & Next.js](https://img.shields.io/badge/React--Next.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 
----
 
 ✨ Thanks for visiting my profile!
