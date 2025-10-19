@@ -37,11 +37,11 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
 #### Core Concepts
-![OOP](https://img.shields.io/badge/-OOP-black?style=flat-square)
-![Data Structures](https://img.shields.io/badge/-DS-black?style=flat-square)
-![Algorithms](https://img.shields.io/badge/-Algorithms-black?style=flat-square)
-![Competitive Programming](https://img.shields.io/badge/-Competitive_Programming-black?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/-ML-black?style=flat-square)
+![OOP](https://img.shields.io/badge/-OOP-black?style=flat-square&logo=oop)
+![Data Structures](https://img.shields.io/badge/-Data_Structures-black?style=flat-square&logo=codeproject)
+![Algorithms](https://img.shields.io/badge/-Algorithms-black?style=flat-square&logo=algolia)
+![Competitive Programming](https://img.shields.io/badge/-Competitive_Programming-black?style=flat-square&logo=codeforces)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-black?style=flat-square&logo=deeplearning)
 
 #### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
@@ -54,11 +54,12 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
+![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Google Colab](https://img.shields.io/badge/-Colab-black?style=flat-square&logo=googlecolab)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle)
+![Phone](https://img.shields.io/badge/-Phone-black?style=flat-square&logo=telephone)
 
 ---
 
