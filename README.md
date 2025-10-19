@@ -83,6 +83,12 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/yasirraiyan/)  
 [![HackerRank](https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/yasirraiyan)  
 ---
+---
+
+### 🖥️ Most Used Languages
+
+<!-- GitHub Readme Stats Language Card -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasirraiyan&layout=compact&langs_count=10&theme=radical)](https://github.com/Yasirraiyan)
 
 ⭐ *Always learning, always building, always improving.*
 .
