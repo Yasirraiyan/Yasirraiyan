@@ -80,6 +80,8 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
 [![Kaggle](https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle)](https://www.kaggle.com/muhammadyasirraiyan)  
 [![Colab](https://img.shields.io/badge/-Google_Colab-black?style=flat-square&logo=googlecolab)](https://colab.research.google.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)](https://account.mongodb.com/account/profile/info)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/yasirraiyan/)  
+[![HackerRank](https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/yasirraiyan)  
 ---
 
 ⭐ *Always learning, always building, always improving.*
