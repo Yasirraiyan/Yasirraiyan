@@ -6,7 +6,7 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
 - 🔭 I’m currently working on **React & Next.js projects**  
 - 🌱 I’m learning **Deep Learning & AI**  
 - 👯 I’m looking to collaborate on **Web Development & ML Projects**  
-- 💬 Ask me about **Python, C++, C#, Java, React, Next.js**  
+- 💬 Ask me about **Python, C++, C#, Java, JavaScript, React, Next.js**  
 - ⚡ Fun fact: I solve **LeetCode problems** for fun and improvement  
 
 ---
@@ -29,6 +29,7 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
@@ -39,6 +40,7 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
 ![OOP](https://img.shields.io/badge/-OOP-black?style=flat-square)
 ![Data Structures](https://img.shields.io/badge/-DS-black?style=flat-square)
 ![Algorithms](https://img.shields.io/badge/-Algorithms-black?style=flat-square)
+![Competitive Programming](https://img.shields.io/badge/-Competitive_Programming-black?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/-ML-black?style=flat-square)
 
 #### Machine Learning & AI
@@ -55,6 +57,8 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Google Colab](https://img.shields.io/badge/-Colab-black?style=flat-square&logo=googlecolab)
+![Kaggle](https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle)
 
 ---
 
@@ -69,7 +73,9 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/yasir.raiyan.54)  
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=whatsapp&logoColor=white)](tel:01407841543)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-raiyan-a7b234358/)  
-[![Phone](https://img.shields.io/badge/-Phone-black?style=flat-square&logo=telephone&logoColor=white)](tel:01407841543)
+[![Phone](https://img.shields.io/badge/-Phone-black?style=flat-square&logo=telephone&logoColor=white)](tel:01407841543)  
+[![Kaggle](https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle)](https://www.kaggle.com/muhammadyasirraiyan)  
+[![Colab](https://img.shields.io/badge/-Google_Colab-black?style=flat-square&logo=googlecolab)](https://colab.research.google.com/)
 
 ---
 
