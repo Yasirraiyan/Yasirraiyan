@@ -88,9 +88,27 @@ Java: `██████░░░░` 60%
 ---
 
 ## 🏆 Achievements
-- Solved **182+ LeetCode problems** (Easy & Medium)
+- Solved **460++ LeetCode problems** (Easy & Medium)
 - Developed **30+ real-world projects** in Web Development, ML, AI
 - Experienced in full-stack development with modern frameworks
+- -90+ Real life project based on:HTML 
+CSS
+JavaScript
+React
+Next.js
+Tailwind CSS
+TypeScript
+
+**Backend**  
+Node.js 
+Python 
+C++
+C#
+Java
+Mechine Learning
+Frontend
+Object Orianted Programming(OOP)
+
 
 ---
 
