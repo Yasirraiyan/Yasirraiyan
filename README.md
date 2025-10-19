@@ -106,6 +106,7 @@ Java: `██████░░░░` 60%
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
 ## Backend
 #Frame Works
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -122,11 +123,18 @@ Java: `██████░░░░` 60%
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ## Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F0DB4F?style=flat-square&logo=TensorFlow&logoColor=white)
+#Language:
+-----------
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+#FrameWork:
+------------
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ## Concepts
 ![OOP](https://img.shields.io/badge/OOP-000000?style=flat-square&logo=object-oriented-programming&logoColor=white)
 ![ML Model](https://img.shields.io/badge/ML_Model-FF6F61?style=flat-square)
 ![React & Next.js](https://img.shields.io/badge/React--Next.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-
+![Competitive Programming](https://img.shields.io/badge/Competitive_Programming-FFA116?style=flat-square&logo=leetcode&logoColor=white)
 
 ✨ Thanks for visiting my profile!
