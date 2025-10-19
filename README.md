@@ -66,6 +66,31 @@ C#: `██████░░░░` 60%
 Java: `██████░░░░` 60%  
 
 ---
+## 🧠 Concepts
+![OOP](https://img.shields.io/badge/OOP-000000?style=flat-square&logo=object-oriented-programming&logoColor=white)
+![ML Model](https://img.shields.io/badge/ML_Model-FF6F61?style=flat-square)
+![React & Next.js](https://img.shields.io/badge/React--Next.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Competitive Programming](https://img.shields.io/badge/Competitive_Programming-FFA116?style=flat-square&logo=leetcode&logoColor=white)
+
+## ⚙️ Frameworks & Tools
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+## 📊 Skill Progress
+| Skill | Progress |
+|-------|-----------|
+| 🧠 Problem Solving | ![90%](https://progress-bar.dev/90/?title=90%) |
+| ⚛️ React / Next.js | ![85%](https://progress-bar.dev/85/?title=85%) |
+| 💻 JavaScript / TypeScript | ![80%](https://progress-bar.dev/80/?title=80%) |
+| 🐍 Python & Jupyter | ![75%](https://progress-bar.dev/75/?title=75%) |
+| 🤖 Machine Learning | ![70%](https://progress-bar.dev/70/?title=70%) |
+| 🏆 Competitive Programming | ![65%](https://progress-bar.dev/65/?title=65%) |
 
 ## 📫 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/yasir.raiyan.54/)
