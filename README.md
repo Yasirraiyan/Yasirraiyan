@@ -59,6 +59,7 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Google Colab](https://img.shields.io/badge/-Colab-black?style=flat-square&logo=googlecolab)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle)
+[![Colab](https://img.shields.io/badge/-Google_Colab-black?style=flat-square&logo=googlecolab)](https://colab.research.google.com/)
 ![Phone](https://img.shields.io/badge/-Phone-black?style=flat-square&logo=telephone)
 
 ---
