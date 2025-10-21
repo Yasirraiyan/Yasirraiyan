@@ -64,6 +64,17 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ---
+#### 🧠 IDEs & Tools
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=flat-square&logo=visualstudiocode)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio)
+![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-000000?style=flat-square&logo=codeblocks)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea)
+![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 
 ### 📈 GitHub Stats
 ![Yasir Raiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasirraiyan&show_icons=true&theme=radical)
