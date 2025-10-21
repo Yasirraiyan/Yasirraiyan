@@ -73,7 +73,7 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,html,css,js,ts,next,tailwind-css"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,html,css,js,ts,next,tailwind"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Scripting:</td>
