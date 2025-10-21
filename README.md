@@ -91,7 +91,7 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs & Tools:</td>
         <td>
             <img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,intellij,netbeans,vite,postman,java,pycharm"/>
-             <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CodeBlocks_Logo.svg/512px-CodeBlocks_Logo.svg.png" alt="codeblocks"/>
+        </td>
         </td>
     </tr>
     <tr>
