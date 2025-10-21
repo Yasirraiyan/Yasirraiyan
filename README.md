@@ -69,19 +69,19 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,net,python,laravel,django,nodejs,express,vite,postman"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,cs,net,python,nodejs,express,vite,postman"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,mui,bootstrap,html,css,sass,js,ts,figma,ai,xd"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,html,css,js,ts,next,tailwind-css"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Scripting:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,php,go,ts,js,latex,r"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,,ts,js,"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,graphql"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -90,16 +90,16 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs & Tools:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,intellij,codeblocks,netbeans,vite,postman,java"/>
+            <img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,intellij,codeblocks,netbeans,vite,postman,java,pycharm"/>
         </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bash,wordpress"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bash"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
     </tr>
 </table>
 
