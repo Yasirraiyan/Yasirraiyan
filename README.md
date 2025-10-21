@@ -69,15 +69,15 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,cs,net,python,nodejs,express,vite,postman"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,vite,postman"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,html,css,js,ts,next,tailwind"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,next,ts,tailwind"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Scripting:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,,ts,js,"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,js,ts"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
