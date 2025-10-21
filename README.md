@@ -93,11 +93,7 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
             <img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,intellij,netbeans,vite,postman,java,pycharm"/>
         </td>
         </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bash"/></td>
-    </tr>
+</tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
