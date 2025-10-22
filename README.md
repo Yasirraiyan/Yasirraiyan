@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Yasirraiyan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=435&lines=I+am+Yasir+Raiyan!;I'm+a+Web+Developer.;I'm+a+Problem+Solver.;I'm+a+Machine+Learning+Enthusiast.;I'm+a+Lifelong+Learner." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=435&lines=I+am+Yasir+Raiyan!;I'm+a+Frontend+Web+Developer.;I'm+a+Problem+Solver.;I'm+a+Machine+Learning+Enthusiast.;I'm+a+Lifelong+Learner." alt="Typing SVG" />
   </a>
 </p>
 
