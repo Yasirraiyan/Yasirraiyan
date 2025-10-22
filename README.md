@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2BF0FB&size=20&lines=I+am+Tasnim+Ahmed!;I'm+a+teacher.;I'm+a+researcher.;I'm+a+software+developer." /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2BF0FB&size=20&lines=I+am+Yasir Raiyan!;;I'm+a+software+developer." /></a>
 </p>
 
 ### 🌟 About Me
