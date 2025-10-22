@@ -1,10 +1,20 @@
 # Hi, I’m Yasir Raiyan 👋
-<h1> Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+
+<h1 align="center">
+  Hello! 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
+</h1>
+
+<p align="center">
+  <a href="https://github.com/Yasirraiyan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=435&lines=I+am+Yasir+Raiyan!;I'm+a+Web+Developer.;I'm+a+Problem+Solver.;I'm+a+Machine+Learning+Enthusiast.;I'm+a+Lifelong+Learner." alt="Typing SVG" />
+  </a>
 </p>
 
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2BF0FB&size=20&lines=I+am+Yasir Raiyan!;;I'm+a+software+developer." /></a>
+---
+
+<p align="center">
+  <b>🌱 Constantly learning and building cool projects 🚀</b>
 </p>
 
 ### 🌟 About Me
