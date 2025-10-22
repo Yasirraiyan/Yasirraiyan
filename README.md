@@ -1,15 +1,5 @@
 # Hi, I’m Yasir Raiyan 👋
 
-
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/YasirRaiyan" width="120" style="border-radius:50%" alt="Profile Picture" />
-  <br/>
-  <a href="https://github.com/YasirRaiyan">
-    <img src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png" alt="Arctic Code Vault Contributor" />
-  </a>
-</div>
-
-
 <h1 align="center">
   Hello! 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
