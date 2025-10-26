@@ -107,7 +107,9 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs & Tools:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,intellij,netbeans,vite,postman,java,pycharm"/>
+          <td>
+            <img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,intellij,netbeans,vite,postman,java,pycharm,figma"/>
+        </td>
         </td>
         </td>
 </tr>
@@ -139,6 +141,7 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)](https://account.mongodb.com/account/profile/info)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/yasirraiyan/)  
 [![HackerRank](https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/yasirraiyan)  
+[![Figma](https://img.shields.io/badge/-Figma-purple?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/files/team/1562704704647152803/recents-and-sharing?fuid=1562704702756141252)
 ---
 ---
 
