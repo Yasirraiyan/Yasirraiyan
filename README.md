@@ -141,6 +141,7 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/yasirraiyan/)  
 [![HackerRank](https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/yasirraiyan)  
 [![Figma](https://img.shields.io/badge/-Figma-purple?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/files/team/1562704704647152803/recents-and-sharing?fuid=1562704702756141252)
+[![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman&logoColor=white)](https://muhammad-yasir-raiyan-s-team.postman.co/me)
 ---
 ---
 
