@@ -83,41 +83,40 @@ I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. 
 ---
 #### 🧠 IDEs & Tools
 <h3 align="left">Languages and Tools:</h3>
+
 <table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,vite,postman"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,next,ts,tailwind"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Scripting:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,js,ts"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs & Tools:</td>
-        <td>
-          <td>
-            <img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,intellij,netbeans,vite,postman,java,pycharm,figma"/>
-        </td>
-        </td>
-        </td>
-</tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
-    </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Backend:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,vite,postman"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: middle;">Frontend:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,next,ts,tailwind"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: middle;">Scripting:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,js,ts"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Database:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=mongodb"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Version Control:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">IDEs & Tools:</td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,intellij,netbeans,vite,postman,java,pycharm,figma"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Operating Systems:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
+  </tr>
 </table>
+
 
 
 
