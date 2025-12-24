@@ -17,6 +17,13 @@
   <b>🌱 Constantly learning and building cool projects 🚀</b>
 </p>
 
+### 📊 Activity Graph
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yasirraiyan&area=true&hide_border=true&theme=dracula&days=30&radius=5.6)
+
+</div>
+
 ### 🌟 About Me
 I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. I love building **modern web apps**, solving **competitive programming problems**, and exploring **AI & ML technologies**.  
 
