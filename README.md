@@ -17,8 +17,7 @@
   <b>🌱 Constantly learning and building cool projects 🚀</b>
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yasirraiyan&area=true&hide_border=true&theme=radical&bg_color=121,0F1419,900020&color=00FFFF&title_color=70D6FF&line=FF00FF&point=FFFFFF&days=30&radius=5.6)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yasirraiyan&area=true&hide_border=true&theme=radical&bg_color=121,0F1419,900020&color=FF00FF&title_color=70D6FF&line=40E0D0&point=FFFFFF&area_color=40E0D022&days=30&radius=5.6)
 ### 🌟 About Me
 I am a passionate **Full-Stack Developer** and **Machine Learning enthusiast**. I love building **modern web apps**, solving **competitive programming problems**, and exploring **AI & ML technologies**.  
 
